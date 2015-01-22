@@ -55,6 +55,11 @@ header {
 
 }
 
+#gallery li:nth-child(5n) {
+	clear: left;
+
+}
+
 #gallery li a p {
 	margin: 0;
 	padding 5%;
