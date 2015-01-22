@@ -7,6 +7,14 @@ img {
 	max-width: 100%;
 }
 
+footer {
+	font-size: 0.75em;
+	text-align: center;
+	clear: both;
+	padding-top: 50px;
+	color: #ccc;
+}
+
 #wrapper {
 	max-width: 940px;
 	margin: 0 auto;
@@ -31,3 +39,11 @@ img {
 	background-color: #f5f5f5;
 	color: #bdc3c7;
 }
+
+#gallery li a p {
+	margin: 0;
+	padding 5%;
+	font-size: 0.75em;
+	color: #bdc3c7;
+}
+
