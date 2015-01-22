@@ -42,6 +42,7 @@ header {
 }
 
 #gallery li {
+	clear: left;
 	float: left;
 	padding-top: 10px;
 	width: 45%;
