@@ -28,6 +28,13 @@ header {
 	width: 100%;
 }
 
+h1 {
+
+	font-size: 2em;
+
+	font-family: 'Sarpanch', sans-serif;
+}
+
 #logo {
 	text-align: center;
 	margin: 0;
