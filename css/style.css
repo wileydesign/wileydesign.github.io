@@ -31,13 +31,21 @@ header {
 h1 {
 
 	font-family: 'Sarpanch', sans-serif;
-	height: 100px;
+	
 }
 
 header {
 	border-color: #266C7F;
 	background-color: #45737F;
 
+}
+nav {
+	background: #266C7F;
+
+}
+
+nav a, nav a:visited {
+    color:  #B2FFCB;
 }
 
 h1, h2 {
