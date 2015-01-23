@@ -34,6 +34,17 @@ h1 {
 	height: 100px;
 }
 
+header {
+	border-color: #266C7F;
+	background-color: #45737F;
+
+}
+
+h1, h2 {
+	color: #B2FFCB;
+
+}
+
 #logo {
 	text-align: center;
 	margin: 0;
