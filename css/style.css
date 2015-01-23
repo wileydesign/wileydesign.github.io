@@ -113,6 +113,11 @@ nav a {
 	padding: 15px 10px;
 }
 
+nav a.selected, nav a:hover {
+
+	color: #32673f;
+}
+
 .social-icon {
 	width: 20px;
 	height: 20px;
