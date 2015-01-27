@@ -28,11 +28,7 @@ header {
 	width: 100%;
 }
 
-h1 {
 
-	font-family: 'Sarpanch', sans-serif;
-	
-}
 
 header {
 	border-color: #266C7F;
@@ -40,8 +36,9 @@ header {
 
 }
 
-h1, h2 {
+header h1, h2 {
 	color: #B2FFCB;
+	font-family: 'Sarpanch', sans-serif;
 
 }
 
