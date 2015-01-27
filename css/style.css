@@ -39,15 +39,7 @@ header {
 	border-color: #266C7F;
 	background-color: #45737F;
 
-}
-nav {
-	background: #266C7F;
 
-}
-
-nav a, nav a:visited {
-    color:  #B2FFCB;
-}
 
 h1, h2 {
 	color: #B2FFCB;
@@ -59,15 +51,15 @@ h1, h2 {
 	margin: 0;
 }
 
+/* portfolio style */
 
-
-#gallery {
+#portfolio {
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-#gallery li {	
+#portfolio li {	
 	float: left;
 	padding-top: 10px;
 	width: 45%;
@@ -76,21 +68,33 @@ h1, h2 {
 	color: #bdc3c7;
 }
 
-#gallery li:nth-child(3n) {
+#portfolio li:nth-child(3n) {
 	clear: left;
 
 }
 
-#gallery li:nth-child(5n) {
+#portfolio li:nth-child(5n) {
 	clear: left;
 
 }
 
-#gallery li a p {
+#portfolio li a p {
 	margin: 0;
 	padding 5%;
 	font-size: 0.75em;
 	color: #bdc3c7;
+}
+
+/* Navigation */
+
+}
+nav {
+	background: #266C7F;
+
+}
+
+nav a, nav a:visited {
+    color:  #B2FFCB;
 }
 
 nav {
