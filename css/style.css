@@ -172,8 +172,7 @@ img.centered {
 .bio {
 	display: block;
     background-image: url("../img/flag.jpg"); 
-    opacity: 0.2;
     background-repeat: no-repeat;
-    background-color: red;
+    background-color: white;
 
 }
