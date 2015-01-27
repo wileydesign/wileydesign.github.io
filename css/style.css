@@ -159,4 +159,10 @@ img.centered {
 	float: left;
 	width: 50%;
 	min-width: 300px;
+
+}
+
+.bio {
+	background-image: url("img/flag.jpg");
+	background-repeat: no-repeat;
 }
