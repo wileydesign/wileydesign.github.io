@@ -138,8 +138,12 @@ nav a.selected, nav a:hover {
 }
 
 #aboutinfo img {
-	max-width: 300px
-	
+	background-repeat: no-repeat;
+	background-position: 50%
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+
 
 }
 
