@@ -133,7 +133,7 @@ nav a.selected, nav a:hover {
 /* About Page Style */
 
 #aboutinfo h1 {
-	font-family: 'Playball', cursive;
+	font-family: 'Raleway', sans-serif;
 	text-align: center;
 }
 
@@ -143,8 +143,6 @@ nav a.selected, nav a:hover {
 	border-radius: 100%;
 	width: 200px;
 	height: 200px;
-	text-align: center;
-
-
+	
 }
 
