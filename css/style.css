@@ -12,7 +12,9 @@ footer {
 	text-align: center;
 	clear: both;
 	padding-top: 50px;
+	padding-bottom: 50px
 	color: #ccc;
+	border-bottom: solid 50px #266C7F;
 }
 
 #wrapper {
@@ -132,4 +134,9 @@ nav a.selected, nav a:hover {
 
 #aboutinfo h1 {
 	font-family: 'Playball', cursive;
+	text-align: center;
+}
+
+#aboutinfo {
+
 }
