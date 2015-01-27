@@ -150,3 +150,12 @@ img.centered {
 	display: block;
 	margin: 0 auto;
 }
+
+.bio article {
+	margin: 0 auto;
+}
+
+.bio section {
+	float: left;
+	width: 50%;
+}
