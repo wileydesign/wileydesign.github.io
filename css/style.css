@@ -169,7 +169,8 @@ img.centered {
 	font-family: sans-serif;
 }
 
-body {
+.bio {
+	display: block;
     background-image: url("img/flag.jpg");
     background-repeat: no-repeat;
 }
