@@ -139,8 +139,8 @@ nav a.selected, nav a:hover {
 
 #aboutinfo img {
 	background-repeat: no-repeat;
-	background-position: 50%
-	border-radius: 50%;
+	background-position: 50%;
+	border-radius: 100%;
 	width: 200px;
 	height: 200px;
 
