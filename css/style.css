@@ -52,13 +52,13 @@ h1, h2 {
 
 /* portfolio style */
 
-#portfolio {
+#gallery {
 	margin: 0;
 	padding: 0;
 	list-style: none;
 }
 
-#portfolio li {	
+#gallery li {	
 	float: left;
 	padding-top: 10px;
 	width: 45%;
@@ -67,17 +67,17 @@ h1, h2 {
 	color: #bdc3c7;
 }
 
-#portfolio li:nth-child(3n) {
+#gallery li:nth-child(3n) {
 	clear: left;
 
 }
 
-#portfolio li:nth-child(5n) {
+#gallery li:nth-child(5n) {
 	clear: left;
 
 }
 
-#portfolio li a p {
+#gallery li a p {
 	margin: 0;
 	padding 5%;
 	font-size: 0.75em;
