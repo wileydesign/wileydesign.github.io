@@ -127,3 +127,9 @@ nav a.selected, nav a:hover {
 	height: 20px;
 	margin: 0 5px;
 }
+
+/* About Page Style */
+
+#aboutinfo h1 {
+	font-family: 'Playball', cursive;
+}
