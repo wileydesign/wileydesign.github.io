@@ -165,6 +165,5 @@ img.centered {
 }
 
 .bio {
-	background-image: url("img/flag.jpg");
-	background-repeat: no-repeat;
+	font-family: sans-serif;
 }
