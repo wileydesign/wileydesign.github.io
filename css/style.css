@@ -39,12 +39,13 @@ header {
 }
 
 header h1, header h2 {
+	font-family: 'Raleway', sans-serif;
 	color: #B2FFCB;
 	
 }
 
 header h1 {
-	font-family: 'Raleway', sans-serif;
+	
 	text-transform: uppercase;
 	letter-spacing: 7px;
 }
