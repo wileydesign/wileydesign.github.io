@@ -166,13 +166,10 @@ img.centered {
 
 .bio {
 
-	font-family: sans-serif;
+	font-family: Arial, sans-serif;
 }
 
 .bio {
-	display: block;
-    background-image: url("../img/flag.png"); 
-    background-repeat: no-repeat;
-    background-color: white;
+	
 
 }
