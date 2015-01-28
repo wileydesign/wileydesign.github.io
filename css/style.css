@@ -159,15 +159,16 @@ img.centered {
 
 .bio article {
 	margin: 0 auto;
-	background-color: rgb(255,255,255);
-	border: 2px;
-	border-radius: 25px
+
 }
 
 .bio section {
 	float: left;
 	width: 50%;
 	min-width: 300px;
+	background-color: rgb(255,255,255);
+	border: 2px;
+	border-radius: 25px
 
 }
 
