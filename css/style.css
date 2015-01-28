@@ -138,7 +138,7 @@ nav a.selected, nav a:hover {
 /* About Page Style */
 
 #aboutinfo section {
-	background-color: rgb(0,255,0,0.3);
+	background-color: blue;
 }
 
 #aboutinfo h1 {
