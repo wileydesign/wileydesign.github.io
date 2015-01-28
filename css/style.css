@@ -177,6 +177,10 @@ img.centered {
 
 }
 
+.bio ul {
+	list-style-type: none;
+}
+
 .photo {
 	background-color: #F7F7E9;
 }
